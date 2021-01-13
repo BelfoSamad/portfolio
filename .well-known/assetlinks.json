@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.yesserli.shop",
+    "sha256_cert_fingerprints":
+    ["A9:0E:ED:ED:31:6E:E7:EB:6F:34:F3:F5:44:64:01:1A:76:C5:E9:AE:4B:09:4E:71:68:BF:70:D7:B3:F2:B1:D6"]
+  }
+}]
